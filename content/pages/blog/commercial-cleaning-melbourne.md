@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/pexels-mastercowley-634007.jpg
+  url: /images/pexels-karolina-grabowska-4239146.jpg
   altText: Thumbnail
   elementId: ''
   styles:
