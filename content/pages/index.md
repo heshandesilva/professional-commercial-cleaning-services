@@ -79,10 +79,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Commercial Cleaning
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Contact us for regular or one-time deep cleaning of your business. All
+          types of cleaning for your place of work, factory, etc. are covered.
+          Deep cleaning plus disinfection.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
