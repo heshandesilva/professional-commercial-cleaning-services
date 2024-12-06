@@ -57,7 +57,7 @@ seo:
   type: Seo
   metaTitle: Electricity Broker - Choose the Right Electricity Broker
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
