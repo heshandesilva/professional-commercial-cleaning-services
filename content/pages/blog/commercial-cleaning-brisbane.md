@@ -61,6 +61,7 @@ seo:
     Clean offers tailored cleaning solutions for businesses of all sizes.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-quang-nguyen-vinh-222549-12741259.jpg
 colors: bg-light-fg-dark
 styles:
   self:
