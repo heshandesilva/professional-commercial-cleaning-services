@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-thisisengineering-19895880.jpg
 colors: bg-light-fg-dark
 styles:
   self:
