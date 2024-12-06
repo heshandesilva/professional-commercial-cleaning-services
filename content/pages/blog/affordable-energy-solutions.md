@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-gustavo-fring-4254172.jpg
 colors: bg-light-fg-dark
 styles:
   self:
