@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-thisisengineering-19895880.jpg
   altText: Thumbnail
   elementId: ''
   styles:
