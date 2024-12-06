@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-uvarova-323133.jpg
-  altText: Thumbnail
+  altText: Energy Broker Melbourne - Smart Energy Choices
   elementId: ''
   styles:
     self:
