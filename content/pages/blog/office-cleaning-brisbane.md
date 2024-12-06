@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-boom-12585524.jpg
-  altText: Thumbnail
+  altText: professional office cleaning services in Brisbane.
   elementId: ''
   styles:
     self:
