@@ -313,8 +313,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “We would like to thank them for being a reliable service cleaning
+          partner over the years. We know we can always turn to them for all our
+          cleaning needs and they never disappoint. Professional staff that you
+          can completely trust. Great service!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
