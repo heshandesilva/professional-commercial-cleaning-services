@@ -55,10 +55,14 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: How to Choose the Best Office Cleaning Services in Melbourne
+  metaDescription: >-
+    Discover essential tips for selecting the right office cleaners in
+    Melbourne. Learn about key factors like reputation, customization options,
+    and the benefits of local services.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6195888.jpg
 colors: bg-light-fg-dark
 styles:
   self:
