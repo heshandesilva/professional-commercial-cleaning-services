@@ -70,7 +70,7 @@ Looking for reliable office cleaning services?
 
 Whether you need daily, weekly, or one-time cleaning, we have you covered. Contact us today to learn more about our services and how we can meet your needs.
 
-![](https://images.unsplash.com/photo-1548062998-5ad5e3d39923?crop=entropy\&cs=tinysrgb\&fit=max\&fm=jpg\&ixid=M3wzMjkxMTJ8MHwxfHNlYXJjaHw1fHxCcmlzYmFuZSUyMENpdHlzY2FwZXxlbnwwfHx8fDE3MzM0NjE2MzR8MA\&ixlib=rb-4.0.3\&q=80\&w=1080)by Michael (https\://unsplash.com/@michael75)
+![](/images/pexels-quang-nguyen-vinh-222549-12741259.jpg)
 
 Keeping a clean and hygienic workplace is important for the success and productivity of any business.
 
@@ -88,7 +88,7 @@ A clean office is more than just visually appealing; it plays a crucial role in 
 
 ### First Impressions Matter
 
-![](https://images.unsplash.com/photo-1462826303086-329426d1aef5?crop=entropy\&cs=tinysrgb\&fit=max\&fm=jpg\&ixid=M3wzMjkxMTJ8MHwxfHNlYXJjaHwxfHxDbGVhbiUyME9mZmljZSUyMFJlY2VwdGlvbnxlbnwwfHx8fDE3MzM0NjE2MzZ8MA\&ixlib=rb-4.0.3\&q=80\&w=1080)by Benjamin Child (https\://unsplash.com/@bchild311)
+![](https://images.unsplash.com/photo-1462826303086-329426d1aef5?crop=entropy\&cs=tinysrgb\&fit=max\&fm=jpg\&ixid=M3wzMjkxMTJ8MHwxfHNlYXJjaHwxfHxDbGVhbiUyME9mZmljZSUyMFJlY2VwdGlvbnxlbnwwfHx8fDE3MzM0NjE2MzZ8MA\&ixlib=rb-4.0.3\&q=80\&w=1080)by Benjamin Child (<https://unsplash.com/@bchild311>)
 
 The cleanliness of your office is often the first thing clients notice when they walk through the door. A clean and organized space shows professionalism and care. It makes a good impression on potential clients and business partners.
 
@@ -102,9 +102,6 @@ Brisbane Office Clean understands that each business has unique cleaning needs.
 
 That’s why they provide cleaning plans that are made just for your company’s needs.
 
-
-
-
 No matter if you run a small office or a large building, their team will help you make a cleaning plan that works with your schedule and budget.
 
 ## What Sets Brisbane Office Clean Apart?
@@ -117,7 +114,7 @@ The team trains regularly to learn the best ways to clean offices. This helps ma
 
 ### Eco-Friendly Cleaning Solutions
 
-![](https://images.unsplash.com/photo-1421940943431-d392fcc1079f?crop=entropy\&cs=tinysrgb\&fit=max\&fm=jpg\&ixid=M3wzMjkxMTJ8MHwxfHNlYXJjaHwzfHxFY28tRnJpZW5kbHklMjBDbGVhbmluZyUyMFByb2R1Y3RzfGVufDB8fHx8MTczMzQ2MTYzOXww\&ixlib=rb-4.0.3\&q=80\&w=1080)by Nuno Silva (https\://unsplash.com/@nmsilva)
+![](https://images.unsplash.com/photo-1421940943431-d392fcc1079f?crop=entropy\&cs=tinysrgb\&fit=max\&fm=jpg\&ixid=M3wzMjkxMTJ8MHwxfHNlYXJjaHwzfHxFY28tRnJpZW5kbHklMjBDbGVhbmluZyUyMFByb2R1Y3RzfGVufDB8fHx8MTczMzQ2MTYzOXww\&ixlib=rb-4.0.3\&q=80\&w=1080)by Nuno Silva (<https://unsplash.com/@nmsilva>)
 
 In today's environmentally conscious world, using green cleaning products is more important than ever.
 
@@ -192,7 +189,6 @@ In a competitive business landscape, maintaining a clean and hygienic office env
 Hiring professional cleaning services in Brisbane, like Brisbane Office Clean, can help keep your workspace clean and welcoming.
 
 This can help get more done and create a positive impression on clients.
-
 
 Brisbane Office Clean is your best choice for office cleaning. They have experienced staff, eco-friendly solutions, and a full range of services.
 
