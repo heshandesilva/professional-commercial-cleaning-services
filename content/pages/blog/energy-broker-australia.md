@@ -54,7 +54,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Energy Broker Australia - What is an Energy Broker
-  metaDescription: Energy Broker Australia - What is an Energy Broker
+  metaDescription: Energy Broker Australia - What is an Energy Broke
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-thisisengineering-19895880.jpg
