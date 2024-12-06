@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Electricity Broker - Choose the Right Electricity Broker
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
