@@ -584,7 +584,11 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/affordable-energy-solutions.md
+      - content/pages/blog/energy-broker-melbourne.md
+      - content/pages/blog/energy-broker-australia.md
+      - content/pages/blog/business-energy-brokers.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
