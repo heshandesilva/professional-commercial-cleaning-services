@@ -60,7 +60,7 @@ seo:
     Discover essential tips for selecting the right office cleaners in
     Melbourne. Learn about key factors like reputation, customization options,
     and the benefits of local services.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
