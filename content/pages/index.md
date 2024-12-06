@@ -70,11 +70,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Your quest for trustworthy cleaning services concludes now. At Clean
-      Group, we provide an extensive array of cleaning solutions tailored for
-      both large and small enterprises, ensuring their workspaces remain
-      immaculate at all times. Contact us for expert cleaning at competitive
-      rates. We serve Sydney, Melbourne, and Brisbane.
+      Your quest for trustworthy cleaning services concludes now. We provide an
+      extensive array of cleaning solutions tailored for both large and small
+      enterprises, ensuring their workspaces remain immaculate at all times.
+      Contact us for expert cleaning at competitive rates. We serve Sydney,
+      Melbourne, and Brisbane.
     items:
       - type: FeaturedItem
         title: 500k
