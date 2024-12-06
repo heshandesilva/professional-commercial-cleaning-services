@@ -9,7 +9,7 @@ excerpt: >-
   expert cleaning solutions tailored for your business needs.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-boom-12585524.jpg
   altText: Thumbnail
   elementId: ''
   styles:
