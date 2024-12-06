@@ -9,7 +9,7 @@ excerpt: >-
   green cleaning services for your workplace.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-antonius-ferret-6223030.jpg
   altText: Thumbnail
   elementId: ''
   styles:
