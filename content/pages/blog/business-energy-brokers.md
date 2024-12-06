@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Business Energy Brokers - Comprehensive Guide
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
