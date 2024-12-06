@@ -55,7 +55,9 @@ isFeatured: true
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: >-
+    Top Commercial Cleaning Services in Melbourne | Boost Workplace Cleanliness
+    & Productivity
   metaDescription: >-
     Explore the best commercial cleaning services in Melbourne that enhance
     workplace cleanliness and productivity
