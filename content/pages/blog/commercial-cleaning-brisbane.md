@@ -3,9 +3,7 @@ type: PostLayout
 title: Commercial Cleaning & Office Cleaning Services Brisbane
 date: '2024-11-10'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Discover the leading commercial cleaning services in Brisbane!
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
