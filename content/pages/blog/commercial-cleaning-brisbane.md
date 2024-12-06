@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Discover the leading commercial cleaning services in Brisbane!
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-quang-nguyen-vinh-222549-12741259.jpg
   altText: Thumbnail
   elementId: ''
   styles:
