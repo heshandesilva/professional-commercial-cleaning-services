@@ -63,6 +63,7 @@ seo:
     workplace cleanliness and productivity
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6196677.jpg
 colors: bg-light-fg-dark
 styles:
   self:
