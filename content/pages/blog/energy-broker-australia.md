@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Energy Broker Australia - What is an Energy Broker
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
