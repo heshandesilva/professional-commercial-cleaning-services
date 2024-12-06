@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tomfisk-6754763.jpg
 colors: bg-light-fg-dark
 styles:
   self:
