@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-pok-rie-33563-189524.jpg
 colors: bg-light-fg-dark
 styles:
   self:
