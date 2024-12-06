@@ -3,9 +3,7 @@ type: PostLayout
 title: Understanding the Role of an Electricity Broker
 date: '2024-12-06'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Electricity Broker - Choose the Right Electricity Broker
 featuredImage:
   type: ImageBlock
   url: /images/pexels-pok-rie-33563-189524.jpg
