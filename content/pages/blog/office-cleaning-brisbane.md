@@ -4,8 +4,9 @@ title: Benefits of Professional Office Cleaning Brisbane
 date: '2024-12-06'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover the benefits of professional office cleaning services in Brisbane.
+  Improve employee health, productivity, and create a positive impression with
+  expert cleaning solutions tailored for your business needs.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
