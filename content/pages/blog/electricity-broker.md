@@ -3,7 +3,9 @@ type: PostLayout
 title: Understanding the Role of an Electricity Broker
 date: '2024-12-06'
 author: content/data/person1.json
-excerpt: Electricity Broker - Choose the Right Electricity Broker
+excerpt: >-
+  Find expert electricity brokers to compare rates and plans. Save time and
+  money on your energy bills with tailored solutions for your needs.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-pok-rie-33563-189524.jpg
@@ -54,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Electricity Broker - Choose the Right Electricity Broker
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Find expert electricity brokers to compare rates and plans. Save time and
+    money on your energy bills with tailored solutions for your needs.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-pok-rie-33563-189524.jpg
