@@ -63,6 +63,7 @@ seo:
     expert cleaning solutions tailored for your business needs.
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pexels-boom-12585524.jpg
 colors: bg-light-fg-dark
 styles:
   self:
