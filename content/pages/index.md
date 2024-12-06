@@ -576,6 +576,36 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/affordable-energy-solutions.md
+      - content/pages/blog/energy-broker-melbourne.md
+      - content/pages/blog/energy-broker-australia.md
+      - content/pages/blog/business-energy-brokers.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    hoverEffect: move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
