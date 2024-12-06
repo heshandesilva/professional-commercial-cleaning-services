@@ -57,7 +57,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover eco-friendly office cleaning solutions in Sydney. Explore the
+    benefits of sustainable cleaning practices and learn how to identify genuine
+    green cleaning services for your workplace.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
