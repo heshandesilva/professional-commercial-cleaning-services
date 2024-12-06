@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: ccc
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
