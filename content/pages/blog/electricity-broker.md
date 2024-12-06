@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-pok-rie-33563-189524.jpg
-  altText: Thumbnail
+  altText: Electricity Broker - Choose the Right Electricity Broker
   elementId: ''
   styles:
     self:
