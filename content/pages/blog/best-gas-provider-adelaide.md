@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Best Gas Provider Adelaide - Best Gas Provider
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover the best gas providers in Adelaide. Compare services, rates, and
+    benefits to choose the ideal gas supplier for your home or business.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-tomfisk-6754763.jpg
