@@ -107,10 +107,11 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: Office Cleaning
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          No matter the type of office, regardless of industry or size, we can
+          ensure it is cleaned in the shortest time possible while maintaining
+          the highest quality standards. Sweeping, vacuuming, mopping,
+          restrooms, and kitchens are all included.
         image:
           url: /images/cleaning-cart.png
           altText: Featured icon two
