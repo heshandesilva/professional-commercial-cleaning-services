@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-eric-anada-280222-1495580.jpg
 colors: bg-light-fg-dark
 styles:
   self:
