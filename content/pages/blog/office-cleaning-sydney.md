@@ -4,11 +4,12 @@ title: Eco-Friendly Office Cleaning Solutions in Sydney
 date: '2024-12-06'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover eco-friendly office cleaning solutions in Sydney. Explore the
+  benefits of sustainable cleaning practices and learn how to identify genuine
+  green cleaning services for your workplace.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-antonius-ferret-6223030.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -55,10 +56,16 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: >-
+    Eco-Friendly Office Cleaning Solutions in Sydney | Sustainable Cleaning
+    Practices
+  metaDescription: >-
+    Discover eco-friendly office cleaning solutions in Sydney. Explore the
+    benefits of sustainable cleaning practices and learn how to identify genuine
+    green cleaning services for your workplace.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6195949.jpg
 colors: bg-light-fg-dark
 styles:
   self:
