@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-eric-anada-280222-1495580.jpg
-  altText: Thumbnail
+  altText: Business Energy Brokers - Comprehensive Guide
   elementId: ''
   styles:
     self:
