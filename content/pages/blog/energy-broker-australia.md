@@ -57,7 +57,7 @@ seo:
   type: Seo
   metaTitle: Energy Broker Australia - What is an Energy Broker
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
