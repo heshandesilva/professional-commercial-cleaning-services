@@ -105,7 +105,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Office Cleaning
+      - title: ''
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
