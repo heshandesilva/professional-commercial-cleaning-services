@@ -215,7 +215,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 70
       url: /images/pexels-mastercowley-634007.jpg
   - posts:
       - content/pages/blog/case-study-1.md
