@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-abhilashsahoo-4143556.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -57,8 +57,9 @@ seo:
   type: Seo
   metaTitle: lorem-ipsum
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-abhilashsahoo-4143556.jpg
 colors: bg-neutralAlt-fg-dark
 styles:
   self:
