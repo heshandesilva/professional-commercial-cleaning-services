@@ -37,4 +37,5 @@ postFeed:
     backgroundPosition: center
     backgroundRepeat: no-repeat
     opacity: 100
+    url: /images/pexels-kaboompics-6335.jpg
 ---
