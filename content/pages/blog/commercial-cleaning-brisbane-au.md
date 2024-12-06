@@ -61,7 +61,7 @@ seo:
   metaDescription: >-
     Looking for reliable office cleaning services in Brisbane? Brisbane Office
     Clean offers tailored cleaning solutions for businesses of all sizes.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
