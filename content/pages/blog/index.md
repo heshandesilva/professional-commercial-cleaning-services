@@ -12,7 +12,7 @@ seo:
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/pexels-markus-winkler-1430818-4057663.jpg
   type: Seo
   addTitleSuffix: true
 type: PostFeedLayout
