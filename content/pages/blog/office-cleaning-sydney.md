@@ -61,7 +61,7 @@ seo:
     Discover eco-friendly office cleaning solutions in Sydney. Explore the
     benefits of sustainable cleaning practices and learn how to identify genuine
     green cleaning services for your workplace.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
