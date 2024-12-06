@@ -256,11 +256,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Maintaining cleanliness can greatly influence the success or downfall of
+      your business, as a pristine and organized office contributes to a
+      positive and professional image for your company. Your safety and
+      satisfaction are our top priorities. Reach out to us for thorough office
+      cleaning services. Here are some key advantages of our cleaning solutions:
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
