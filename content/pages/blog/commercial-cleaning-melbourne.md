@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: ccc
+  metaDescription: >-
+    Explore the best commercial cleaning services in Melbourne that enhance
+    workplace cleanliness and productivity
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
