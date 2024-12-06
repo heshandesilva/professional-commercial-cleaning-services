@@ -65,6 +65,7 @@ seo:
     green cleaning services for your workplace.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6195949.jpg
 colors: bg-light-fg-dark
 styles:
   self:
