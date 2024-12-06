@@ -62,7 +62,8 @@ seo:
     Improve employee health, productivity, and create a positive impression with
     expert cleaning solutions tailored for your business needs.
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
   socialImage: /images/pexels-boom-12585524.jpg
 colors: bg-light-fg-dark
 styles:
