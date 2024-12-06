@@ -56,7 +56,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Professional Office Cleaning Services in Brisbane
   metaDescription: >-
     Discover the benefits of professional office cleaning services in Brisbane.
     Improve employee health, productivity, and create a positive impression with
