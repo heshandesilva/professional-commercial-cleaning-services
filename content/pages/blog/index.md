@@ -30,4 +30,12 @@ postFeed:
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
+  backgroundImage:
+    type: BackgroundImage
+    altText: News articles
+    backgroundSize: auto
+    backgroundPosition: center
+    backgroundRepeat: no-repeat
+    opacity: 100
+    url: /images/pexels-kaboompics-6335.jpg
 ---
