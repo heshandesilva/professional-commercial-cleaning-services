@@ -53,7 +53,9 @@ isFeatured: true
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: >-
+    Top Commercial Cleaning & Office Cleaning Services in Brisbane | Brisbane
+    Office Clean
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
