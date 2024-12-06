@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-tomfisk-6754763.jpg
-  altText: Thumbnail
+  altText: best gas provider adelaide
   elementId: ''
   styles:
     self:
