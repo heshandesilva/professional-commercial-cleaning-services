@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: How to Choose the Best Office Cleaning Services in Melbourne
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
