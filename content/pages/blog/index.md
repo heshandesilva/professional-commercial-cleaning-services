@@ -32,7 +32,7 @@ postFeed:
   hoverEffect: move-up
   backgroundImage:
     type: BackgroundImage
-    altText: altText of the image
+    altText: News articles
     backgroundSize: auto
     backgroundPosition: center
     backgroundRepeat: no-repeat
