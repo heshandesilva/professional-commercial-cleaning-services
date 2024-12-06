@@ -60,6 +60,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/pexels-mastercowley-634007.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
