@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Track appliance energy usage, costs, and savings with real-time insights and
+    smart monitoring tips. Optimize your home’s efficiency effortlessly.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-abhilashsahoo-4143556.jpg
