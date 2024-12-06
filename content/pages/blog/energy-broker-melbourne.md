@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Energy Broker Melbourne - Smart Energy Choices
-  metaDescription: lorem-ipsum
+  metaDescription: Energy Broker Melbourne - Smart Energy Choices
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
