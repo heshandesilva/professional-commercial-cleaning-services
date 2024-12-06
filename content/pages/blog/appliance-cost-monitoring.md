@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-abhilashsahoo-4143556.jpg
   altText: Thumbnail
   elementId: ''
   styles:
