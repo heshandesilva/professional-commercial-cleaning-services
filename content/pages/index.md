@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+      Maintaining a clean and sanitized workplace is more crucial than ever.
+      Your quest for a professional and compliant [commercial cleaning
+      service](https://www.scsgroup.com.au/) provider with a nationwide presence
+      has come to an end.
     actions:
       - label: Get started
         altText: ''
