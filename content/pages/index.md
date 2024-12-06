@@ -63,7 +63,7 @@ sections:
       url: /images/pexels-mastercowley-634007.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Top Cleaning Service in Australia
       color: text-dark
       styles:
         self:
