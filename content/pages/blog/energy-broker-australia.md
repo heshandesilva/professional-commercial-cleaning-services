@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-thisisengineering-19895880.jpg
-  altText: Thumbnail
+  altText: Energy Broker Australia - What is an Energy Broker
   elementId: ''
   styles:
     self:
