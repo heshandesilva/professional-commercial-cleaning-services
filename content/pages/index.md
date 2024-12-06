@@ -59,7 +59,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 48
+      opacity: 33
       url: /images/pexels-mastercowley-634007.jpg
   - type: FeaturedItemsSection
     title:
