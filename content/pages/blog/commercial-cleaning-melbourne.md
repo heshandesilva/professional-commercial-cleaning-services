@@ -1,6 +1,6 @@
 ---
 title: Top Commercial Cleaning Services in Melbourne
-slug: case-study-1
+slug: commercial-cleaning-melbourne
 date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
