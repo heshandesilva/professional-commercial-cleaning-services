@@ -62,6 +62,7 @@ seo:
     and the benefits of local services.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6195888.jpg
 colors: bg-light-fg-dark
 styles:
   self:
