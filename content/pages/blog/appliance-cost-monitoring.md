@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-abhilashsahoo-4143556.jpg
 colors: bg-neutralAlt-fg-dark
 styles:
   self:
