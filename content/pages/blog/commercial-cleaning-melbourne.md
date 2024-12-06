@@ -51,7 +51,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: commercial-cleaning-melbourne
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
