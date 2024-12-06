@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Business Energy Brokers - Comprehensive Guide
-  metaDescription: lorem-ipsum
+  metaDescription: Business Energy Brokers - Comprehensive Guide
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-eric-anada-280222-1495580.jpg
