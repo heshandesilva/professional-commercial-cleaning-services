@@ -133,10 +133,11 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: Warehouse Cleaning
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Whether you manage a large or small warehouse, we can assist in
+          maintaining its cleanliness with our routine professional cleaning
+          services, all supported by our quality assurance. Our team consists of
+          experienced cleaning professionals.
         image:
           url: /images/bucket.png
           altText: Featured icon three
