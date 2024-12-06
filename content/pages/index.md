@@ -265,7 +265,7 @@ sections:
 
     media:
       title: Title of the video
-      url: ''
+      url: 'https://youtu.be/YoQKRgwiKmo'
       controls: false
       aspectRatio: '16:9'
       styles:
