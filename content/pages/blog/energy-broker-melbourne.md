@@ -3,9 +3,7 @@ type: PostLayout
 title: 'Energy Broker Melbourne: Your Guide to Smart Energy Choices'
 date: '2024-12-06'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Energy Broker Melbourne - Smart Energy Choices
 featuredImage:
   type: ImageBlock
   url: /images/pexels-uvarova-323133.jpg
