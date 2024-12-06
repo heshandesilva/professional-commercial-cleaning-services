@@ -3,7 +3,9 @@ type: PostLayout
 title: 'Energy Broker Melbourne: Your Guide to Smart Energy Choices'
 date: '2024-12-06'
 author: content/data/person1.json
-excerpt: Energy Broker Melbourne - Smart Energy Choices
+excerpt: >-
+  Discover top energy brokers in Melbourne. Compare plans, save on energy costs,
+  and find customized solutions for your home or business.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-uvarova-323133.jpg
@@ -54,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Energy Broker Melbourne - Smart Energy Choices
-  metaDescription: Energy Broker Melbourne - Smart Energy Choices
+  metaDescription: >-
+    Discover top energy brokers in Melbourne. Compare plans, save on energy
+    costs, and find customized solutions for your home or business.
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
