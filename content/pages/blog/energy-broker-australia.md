@@ -3,9 +3,7 @@ type: PostLayout
 title: Understanding the Role of an Energy Broker
 date: '2024-12-06'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Energy Broker Australia - What is an Energy Broker
 featuredImage:
   type: ImageBlock
   url: /images/pexels-thisisengineering-19895880.jpg
