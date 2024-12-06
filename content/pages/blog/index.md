@@ -28,7 +28,7 @@ postFeed:
   actions: []
   elementId: null
   variant: three-col-grid
-  colors: bg-dark-fg-light
+  colors: bg-neutral-fg-dark
   hoverEffect: move-up
   backgroundImage:
     type: BackgroundImage
