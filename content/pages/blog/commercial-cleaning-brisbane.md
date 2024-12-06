@@ -49,7 +49,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: commercial-cleaning-brisbane
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
