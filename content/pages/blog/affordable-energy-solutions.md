@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-gustavo-fring-4254172.jpg
   altText: Thumbnail
   elementId: ''
   styles:
