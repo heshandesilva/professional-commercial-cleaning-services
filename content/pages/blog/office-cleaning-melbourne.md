@@ -4,8 +4,9 @@ title: How to Choose Office Cleaners in Melbourne
 date: '2024-12-01'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover essential tips for selecting the right office cleaners in Melbourne.
+  Learn about key factors like reputation, customization options, and the
+  benefits of local services.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
