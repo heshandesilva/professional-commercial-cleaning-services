@@ -58,7 +58,9 @@ seo:
   metaTitle: >-
     Top Commercial Cleaning & Office Cleaning Services in Brisbane | Brisbane
     Office Clean
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Looking for reliable office cleaning services in Brisbane? Brisbane Office
+    Clean offers tailored cleaning solutions for businesses of all sizes.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
