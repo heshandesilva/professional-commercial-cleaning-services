@@ -57,6 +57,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Child Care Cleaning Sydney.png
 colors: bg-light-fg-dark
 styles:
   self:
