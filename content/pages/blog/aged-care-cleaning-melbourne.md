@@ -93,7 +93,7 @@ seo:
   type: Seo
   metaTitle: Aged Care Cleaning Melbourne - Professional Cleaning Services
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/Aged Care Cleaning Melbourne.png
 colors: bg-light-fg-dark
