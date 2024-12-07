@@ -3,9 +3,7 @@ type: PostLayout
 title: Aged Care Cleaning Services for Seniors Melbourne
 date: '2024-12-07'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Aged Care Cleaning Melbourne
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
