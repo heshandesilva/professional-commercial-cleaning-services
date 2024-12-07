@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
 colors: bg-light-fg-dark
 styles:
   self:
