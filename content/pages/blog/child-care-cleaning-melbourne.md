@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
   altText: Thumbnail
   elementId: ''
   styles:
