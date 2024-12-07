@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Choosing the Right Aged Care Cleaning Sydney
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Choosing the Right Aged Care Cleaning Sydney.png
   altText: Thumbnail
   elementId: ''
   styles:
