@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Aged Care Cleaning Melbourne
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Aged Care Cleaning Melbourne.png
   altText: Thumbnail
   elementId: ''
   styles:
