@@ -7,7 +7,7 @@ excerpt: Aged Care Cleaning Melbourne
 featuredImage:
   type: ImageBlock
   url: /images/Aged Care Cleaning Melbourne.png
-  altText: Thumbnail
+  altText: Aged Care Cleaning Melbourne
   elementId: ''
   styles:
     self:
