@@ -92,7 +92,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Best Practices for Child Care Cleaning Brisbane Facilities
-  metaDescription: Best Practices for Child Care Cleaning Brisbane Facilities
+  metaDescription: >-
+    Maintain hygiene and safety in Brisbane child care centers with expert
+    cleaning tips. Learn proven methods for effective and reliable care.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Best Practices for Child Care Cleaning Brisbane Facilities.png
