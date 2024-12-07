@@ -3,7 +3,9 @@ type: PostLayout
 title: Cleaning Tips for Child Care Cleaning in Melbourne
 date: '2024-12-07'
 author: content/data/person1.json
-excerpt: child-care-cleaning-melbourne
+excerpt: >-
+  Discover essential tips for effective child care cleaning in Melbourne. Ensure
+  a safe, hygienic environment for kids with our proven methods. 
 featuredImage:
   type: ImageBlock
   url: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
@@ -54,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Cleaning Tips for Child Care Cleaning in Melbourne
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover essential tips for effective child care cleaning in Melbourne.
+    Ensure a safe, hygienic environment for kids with our proven methods. 
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
