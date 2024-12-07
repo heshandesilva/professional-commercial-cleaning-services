@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Childcare Cleaner Australia | Daycare Cleaning Services
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
