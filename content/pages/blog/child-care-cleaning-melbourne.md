@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
-  altText: Thumbnail
+  altText: Cleaning Tips for Child Care Cleaning in Melbourne
   elementId: ''
   styles:
     self:
