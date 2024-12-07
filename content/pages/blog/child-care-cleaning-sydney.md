@@ -3,7 +3,7 @@ type: PostLayout
 title: Childcare Cleaner Sydney Australia | Daycare Cleaning Services
 date: '2024-12-07'
 author: content/data/person1.json
-excerpt: Childcare Cleaner Sydney Australia | Daycare Cleaning Services
+excerpt: ' Ensure safe, clean child care centers in Sydney with expert cleaning tips. Learn methods for hygiene and effective maintenance today.'
 featuredImage:
   type: ImageBlock
   url: /images/Child Care Cleaning Sydney.png
