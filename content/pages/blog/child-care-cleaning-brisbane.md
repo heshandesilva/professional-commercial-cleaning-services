@@ -95,6 +95,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/Best Practices for Child Care Cleaning Brisbane Facilities.png
 colors: bg-light-fg-dark
 styles:
   self:
