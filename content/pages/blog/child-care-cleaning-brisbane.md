@@ -7,7 +7,7 @@ excerpt: Best Practices for Child Care Cleaning Brisbane Facilities
 featuredImage:
   type: ImageBlock
   url: /images/Best Practices for Child Care Cleaning Brisbane Facilities.png
-  altText: Thumbnail
+  altText: Best Practices for Child Care Cleaning Brisbane Facilities
   elementId: ''
   styles:
     self:
