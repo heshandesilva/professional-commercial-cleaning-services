@@ -95,6 +95,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Aged Care Cleaning Melbourne.png
 colors: bg-light-fg-dark
 styles:
   self:
