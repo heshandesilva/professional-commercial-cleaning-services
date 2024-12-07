@@ -57,7 +57,7 @@ seo:
   type: Seo
   metaTitle: Cleaning Tips for Child Care Cleaning in Melbourne
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
 colors: bg-light-fg-dark
