@@ -54,7 +54,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Childcare Cleaner Australia | Daycare Cleaning Services
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Ensure safe, clean child care centers in Sydney with expert cleaning tips.
+    Learn methods for hygiene and effective maintenance today.
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/Child Care Cleaning Sydney.png
