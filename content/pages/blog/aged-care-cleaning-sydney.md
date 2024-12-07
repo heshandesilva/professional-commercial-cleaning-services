@@ -3,7 +3,9 @@ type: PostLayout
 title: Choosing the Right Aged Care Cleaning Sydney
 date: '2024-12-07'
 author: content/data/person1.json
-excerpt: Choosing the Right Aged Care Cleaning Sydney
+excerpt: >-
+  Discover essential cleaning tips for aged care facilities in Sydney. Maintain
+  hygiene and safety with tailored solutions for elderly care. 
 featuredImage:
   type: ImageBlock
   url: /images/Choosing the Right Aged Care Cleaning Sydney.png
