@@ -7,7 +7,7 @@ excerpt: Choosing the Right Aged Care Cleaning Sydney
 featuredImage:
   type: ImageBlock
   url: /images/Choosing the Right Aged Care Cleaning Sydney.png
-  altText: Thumbnail
+  altText: Choosing the Right Aged Care Cleaning Sydney
   elementId: ''
   styles:
     self:
