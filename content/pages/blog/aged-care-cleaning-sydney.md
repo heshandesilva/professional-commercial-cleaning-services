@@ -3,9 +3,7 @@ type: PostLayout
 title: Choosing the Right Aged Care Cleaning Sydney
 date: '2024-12-07'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Choosing the Right Aged Care Cleaning Sydney
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
