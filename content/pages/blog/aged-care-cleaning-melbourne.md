@@ -92,7 +92,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Aged Care Cleaning Melbourne - Professional Cleaning Services
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Ensure safe, hygienic aged care facilities in Melbourne with expert cleaning
+    tips. Learn methods tailored for elderly care environments.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Aged Care Cleaning Melbourne.png
