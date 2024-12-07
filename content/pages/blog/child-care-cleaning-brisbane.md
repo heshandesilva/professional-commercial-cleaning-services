@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Best Practices for Child Care Cleaning Brisbane Facilities
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Best Practices for Child Care Cleaning Brisbane Facilities.png
   altText: Thumbnail
   elementId: ''
   styles:
