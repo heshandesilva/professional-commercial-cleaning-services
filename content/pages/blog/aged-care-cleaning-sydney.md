@@ -92,7 +92,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Choosing the Right Aged Care Cleaning Sydney
-  metaDescription: lorem-ipsum
+  metaDescription: aged-care-cleaning-sydney
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
