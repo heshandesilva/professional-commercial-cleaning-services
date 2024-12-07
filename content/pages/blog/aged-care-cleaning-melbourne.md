@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Aged Care Cleaning Melbourne
+      text: ''
       color: text-dark
       styles:
         self:
