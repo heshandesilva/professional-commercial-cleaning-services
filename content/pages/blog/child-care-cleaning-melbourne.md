@@ -4,7 +4,7 @@ title: Cleaning Tips for Child Care Cleaning in Melbourne
 date: '2024-12-07'
 author: content/data/person1.json
 excerpt: >-
-  iscover essential tips for effective child care cleaning in Melbourne. Ensure
+  Discover essential tips for effective child care cleaning in Melbourne. Ensure
   a safe, hygienic environment for kids with our proven methods. 
 featuredImage:
   type: ImageBlock
