@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Cleaning Tips for Child Care Cleaning in Melbourne
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover essential tips for effective child care cleaning in Melbourne.
+    Ensure a safe, hygienic environment for kids with our proven methods. 
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Cleaning Tips for Child Care Cleaning in Melbourne.png
