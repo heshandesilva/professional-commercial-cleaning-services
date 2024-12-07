@@ -50,7 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: Child Care Cleaning Sydney
+slug: child-care-cleaning-sydney
 isFeatured: false
 isDraft: false
 seo:
