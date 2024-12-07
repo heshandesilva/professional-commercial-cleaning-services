@@ -43,7 +43,7 @@ bottomSections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Aged Care Cleaning Melbourne
       url: 'https://youtu.be/bgnT2B9JSQQ'
       autoplay: true
       loop: true
