@@ -91,7 +91,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: child-care-cleaning-brisbane
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
