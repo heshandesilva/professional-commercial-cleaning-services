@@ -92,7 +92,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Choosing the Right Aged Care Cleaning Sydney
-  metaDescription: aged-care-cleaning-sydney
+  metaDescription: >-
+    Discover essential cleaning tips for aged care facilities in Sydney.
+    Maintain hygiene and safety with tailored solutions for elderly care. 
   addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
