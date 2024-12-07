@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Childcare Cleaner Sydney Australia | Daycare Cleaning Services
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Child Care Cleaning Sydney.png
   altText: Thumbnail
   elementId: ''
   styles:
