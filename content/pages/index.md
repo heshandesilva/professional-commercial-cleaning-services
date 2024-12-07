@@ -596,7 +596,7 @@ sections:
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     hoverEffect: move-up
     styles:
       self:
