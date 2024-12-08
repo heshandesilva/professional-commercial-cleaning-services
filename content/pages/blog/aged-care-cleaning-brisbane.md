@@ -93,7 +93,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Essential Cleaning Tips for Aged Care Facilities
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
