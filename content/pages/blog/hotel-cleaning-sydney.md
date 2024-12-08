@@ -97,6 +97,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/Hotel Cleaning Services Sydney.png
 colors: bg-light-fg-dark
 styles:
   self:
