@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Aged Care Cleaning Brisbane.png
-  altText: Thumbnail
+  altText: Aged Care Cleaning Brisbane
   elementId: ''
   styles:
     self:
