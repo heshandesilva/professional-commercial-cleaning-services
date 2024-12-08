@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Aged Care Cleaning Brisbane.png
   altText: Thumbnail
   elementId: ''
   styles:
