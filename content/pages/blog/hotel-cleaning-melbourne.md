@@ -93,7 +93,7 @@ seo:
   type: Seo
   metaTitle: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
   metaDescription: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
