@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Hotel Cleaning Melbourne.png
   altText: Thumbnail
   elementId: ''
   styles:
