@@ -92,7 +92,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
-  metaDescription: 'Maintaining Hygiene Standards '
+  metaDescription: >-
+    Discover top tips for professional hotel cleaning in Melbourne. Ensure guest
+    satisfaction with expert services, advanced technologies, and eco-friendly
+    practices.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Hotel Cleaning Melbourne.png
