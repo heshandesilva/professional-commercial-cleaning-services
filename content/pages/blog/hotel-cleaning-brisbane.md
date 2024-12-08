@@ -97,6 +97,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/Hotel Cleaning Brisbane.png
 colors: bg-light-fg-dark
 styles:
   self:
