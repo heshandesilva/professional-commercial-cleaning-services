@@ -3,7 +3,10 @@ type: PostLayout
 title: Essential Tips for Hotel Cleaning Services Sydney
 date: '2024-12-08'
 author: content/data/person1.json
-excerpt: Essential Tips for Hotel Cleaning Services Sydney
+excerpt: >-
+  Optimize hotel cleanliness in Sydney with expert insights. Explore sustainable
+  methods, advanced tools, and best practices for guest satisfaction and
+  hygiene.
 featuredImage:
   type: ImageBlock
   url: /images/Hotel Cleaning Services Sydney.png
@@ -92,7 +95,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Essential Tips for Hotel Cleaning Services Sydney
-  metaDescription: Essential Tips for Hotel Cleaning Services Sydney
+  metaDescription: >-
+    Optimize hotel cleanliness in Sydney with expert insights. Explore
+    sustainable methods, advanced tools, and best practices for guest
+    satisfaction and hygiene.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Hotel Cleaning Services Sydney.png
