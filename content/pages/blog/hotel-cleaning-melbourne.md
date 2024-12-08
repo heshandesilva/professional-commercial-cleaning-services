@@ -7,7 +7,7 @@ excerpt: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
 featuredImage:
   type: ImageBlock
   url: /images/Hotel Cleaning Melbourne.png
-  altText: Thumbnail
+  altText: Hotel Cleaning Melbourne
   elementId: ''
   styles:
     self:
