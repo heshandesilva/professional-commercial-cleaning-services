@@ -3,7 +3,7 @@ type: PostLayout
 title: Essential Cleaning Tips for Aged Care Facilities
 date: '2024-12-08'
 author: content/data/person1.json
-excerpt: aged-care-cleaning-brisbane
+excerpt: Essential Cleaning Tips for Aged Care Facilities Brisbane
 featuredImage:
   type: ImageBlock
   url: /images/Aged Care Cleaning Brisbane.png
