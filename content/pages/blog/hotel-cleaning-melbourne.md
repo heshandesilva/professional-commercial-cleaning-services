@@ -3,9 +3,7 @@ type: PostLayout
 title: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
 date: '2024-12-08'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
