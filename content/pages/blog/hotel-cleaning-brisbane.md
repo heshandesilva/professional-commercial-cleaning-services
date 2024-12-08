@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Hotel Cleaning Brisbane.png
-  altText: Thumbnail
+  altText: Hotel Cleaning Brisbane
   elementId: ''
   styles:
     self:
