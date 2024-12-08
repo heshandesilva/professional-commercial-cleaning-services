@@ -95,7 +95,7 @@ seo:
   type: Seo
   metaTitle: Essential Tips for Hotel Cleaning Services Sydney
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
