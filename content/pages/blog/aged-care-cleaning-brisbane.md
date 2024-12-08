@@ -3,7 +3,9 @@ type: PostLayout
 title: Essential Cleaning Tips for Aged Care Facilities
 date: '2024-12-08'
 author: content/data/person1.json
-excerpt: Essential Cleaning Tips for Aged Care Facilities Brisbane
+excerpt: >-
+  Expert aged care cleaning in Brisbane ensures hygienic, safe environments.
+  Discover tailored tips and professional services for elderly facility needs.
 featuredImage:
   type: ImageBlock
   url: /images/Aged Care Cleaning Brisbane.png
@@ -92,7 +94,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Essential Cleaning Tips for Aged Care Facilities Brisbane
-  metaDescription: Essential Cleaning Tips for Aged Care Facilities Brisbane
+  metaDescription: >-
+    Expert aged care cleaning in Brisbane ensures hygienic, safe environments.
+    Discover tailored tips and professional services for elderly facility needs.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Aged Care Cleaning Brisbane.png
