@@ -53,7 +53,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: ''
       color: text-dark
       styles:
         self:
