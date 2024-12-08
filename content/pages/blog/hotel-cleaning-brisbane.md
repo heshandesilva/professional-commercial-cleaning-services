@@ -44,7 +44,7 @@ bottomSections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/u_e8Eeyy__k'
       autoplay: true
       loop: true
       muted: true
