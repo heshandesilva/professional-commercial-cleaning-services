@@ -95,7 +95,7 @@ seo:
   type: Seo
   metaTitle: Essential Cleaning Tips for Aged Care Facilities Brisbane
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/Aged Care Cleaning Brisbane.png
 colors: bg-light-fg-dark
