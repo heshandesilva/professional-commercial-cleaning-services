@@ -92,7 +92,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Essential Tips for Hotel Cleaning in Brisbane
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Enhance hotel cleaning in Brisbane with expert tips. Discover
+    climate-specific strategies, high-touch area focus, eco-friendly methods,
+    and modern tools.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/Hotel Cleaning Brisbane.png
