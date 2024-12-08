@@ -95,7 +95,7 @@ seo:
   type: Seo
   metaTitle: Essential Tips for Hotel Cleaning in Brisbane
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/Hotel Cleaning Brisbane.png
 colors: bg-light-fg-dark
