@@ -3,9 +3,7 @@ type: PostLayout
 title: Essential Tips for Hotel Cleaning in Brisbane
 date: '2024-12-08'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Essential Tips for Hotel Cleaning in Brisbane
 featuredImage:
   type: ImageBlock
   url: /images/Hotel Cleaning Brisbane.png
