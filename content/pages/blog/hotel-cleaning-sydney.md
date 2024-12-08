@@ -93,7 +93,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Essential Tips for Hotel Cleaning Services Sydney
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
