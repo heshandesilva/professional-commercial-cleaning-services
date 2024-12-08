@@ -91,10 +91,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
+  metaDescription: Maintaining Hygiene Standards in Hotel Cleaning Melbourne
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/Hotel Cleaning Melbourne.png
 colors: bg-light-fg-dark
 styles:
   self:
