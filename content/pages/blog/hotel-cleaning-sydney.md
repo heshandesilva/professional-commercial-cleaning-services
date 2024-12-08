@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Hotel Cleaning Services Sydney.png
-  altText: Thumbnail
+  altText: Hotel Cleaning Services Sydney
   elementId: ''
   styles:
     self:
