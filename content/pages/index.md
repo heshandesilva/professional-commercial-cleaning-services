@@ -217,40 +217,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 39
       url: /images/pexels-mastercowley-634007.jpg
-  - posts:
-      - content/pages/blog/case-study-3.md
-      - content/pages/blog/affordable-energy-solutions.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-      - content/pages/blog/commercial-cleaning-brisbane-au.md
-      - content/pages/blog/commercial-cleaning-melbourne.md
-      - content/pages/blog/commercial-cleaning-sydney.md
-      - content/pages/blog/office-cleaning-brisbane.md
-      - content/pages/blog/office-cleaning-melbourne.md
-      - content/pages/blog/office-cleaning-sydney.md
-      - content/pages/blog/top-ten-lessons-we-learned.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
-      - content/pages/blog/appliance-cost-monitoring.md
-      - content/pages/blog/best-gas-provider-adelaide.md
-      - content/pages/blog/electricity-broker.md
-      - content/pages/blog/business-energy-brokers.md
-      - content/pages/blog/energy-broker-australia.md
-      - content/pages/blog/energy-broker-melbourne.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
