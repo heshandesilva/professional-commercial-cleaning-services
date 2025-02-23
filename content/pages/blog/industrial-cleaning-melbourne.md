@@ -8,7 +8,7 @@ author: content/data/person1.json
 excerpt: Industrial Cleaning Melbourne
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-boom-12585524.jpg
   altText: Industrial Cleaning Melbourne
   elementId: ''
   styles:
