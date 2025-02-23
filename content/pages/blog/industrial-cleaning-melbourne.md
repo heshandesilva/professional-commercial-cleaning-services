@@ -9,7 +9,7 @@ excerpt: Industrial Cleaning Melbourne
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  altText: Industrial Cleaning Melbourne
   elementId: ''
   styles:
     self:
