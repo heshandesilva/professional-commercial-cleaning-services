@@ -5,9 +5,7 @@ title: >-
   Safe Workplace
 date: '2025-02-23'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Industrial Cleaning Melbourne
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
