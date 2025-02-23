@@ -91,7 +91,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Industrial Cleaning Melbourne
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
