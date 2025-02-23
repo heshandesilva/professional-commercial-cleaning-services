@@ -93,7 +93,7 @@ seo:
   type: Seo
   metaTitle: Industrial Cleaning Melbourne
   metaDescription: Industrial Cleaning Melbourne
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
