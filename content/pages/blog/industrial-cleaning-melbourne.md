@@ -5,7 +5,7 @@ title: >-
   Safe Workplace
 date: '2025-02-23'
 author: content/data/person1.json
-excerpt: Industrial Cleaning Melbourne
+excerpt: 'Industrial Cleaning Melbourne '
 featuredImage:
   type: ImageBlock
   url: /images/pexels-boom-12585524.jpg
