@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: Industrial Cleaning Melbourne
+title: >-
+  Industrial Cleaning Melbourne: The Ultimate Guide to Maintaining a Clean and
+  Safe Workplace
 date: '2025-02-23'
 author: content/data/person1.json
 excerpt: >-
